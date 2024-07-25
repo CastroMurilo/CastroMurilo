@@ -4,8 +4,8 @@
 - 🐱‍🏍 Utilizando Python
 - ✔ Pandas, BotCity, SQLAlchemy
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" style="width: 200px; height: auto;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="width: 200px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" style="width: 150px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="width: 150px; height: auto;" />
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
