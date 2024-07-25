@@ -12,16 +12,16 @@
 </a>
 
 <a href="https://github.com/CastroMurilo/YouTube-Web-Scraping-Automation">
-  <img height="90" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=YouTube-Web-Scraping-Automation&theme=dracula" alt="YouTube Web Scraping Automation" />
+  <img height="112" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=YouTube-Web-Scraping-Automation&theme=dracula" alt="YouTube Web Scraping Automation" />
 </a>
 <a href="https://github.com/CastroMurilo/Web-Scraping-Automated-Data-Entry">
-  <img height="90" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=Web-Scraping-Automated-Data-Entry&theme=dracula" alt="Web Scraping Automated Data Entry" />
+  <img height="113" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=Web-Scraping-Automated-Data-Entry&theme=dracula" alt="Web Scraping Automated Data Entry" />
 </a>
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" style="width: 80px; height: auto;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="width: 80px; height: auto;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-plain-wordmark.svg" alt="Firefox" style="width: 80px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" style="width: 60px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="width: 60px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-plain-wordmark.svg" alt="Firefox" style="width: 60px; height: auto;" />
 </div>
 
 <a href="https://www.linkedin.com/in/murilorosacastro/" target="_blank">
