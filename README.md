@@ -5,17 +5,17 @@
 - ✔ Pandas, BotCity, SQLAlchemy
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CastroMurilo&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api?username=CastroMurilo&theme=dracula" alt="Estatísticas do GitHub" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CastroMurilo&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CastroMurilo&layout=compact&langs_count=8&card_width=320&theme=dracula" alt="Linguagens mais usadas" />
 </a>
 
 <a href="https://github.com/CastroMurilo/YouTube-Web-Scraping-Automation">
-  <img height="138" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=YouTube-Web-Scraping-Automation&theme=dracula" alt="YouTube Web Scraping Automation" />
+  <img height="90" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=YouTube-Web-Scraping-Automation&theme=dracula" alt="YouTube Web Scraping Automation" />
 </a>
 <a href="https://github.com/CastroMurilo/Web-Scraping-Automated-Data-Entry">
-  <img height="139" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=Web-Scraping-Automated-Data-Entry&theme=dracula" alt="Web Scraping Automated Data Entry" />
+  <img height="91" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=Web-Scraping-Automated-Data-Entry&theme=dracula" alt="Web Scraping Automated Data Entry" />
 </a>
 
 <div>
