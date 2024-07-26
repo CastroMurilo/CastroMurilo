@@ -21,10 +21,10 @@
 </a>
 
 <a href="https://github.com/CastroMurilo/YouTube-Web-Scraping-Automation">
-  <img height="154" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=YouTube-Web-Scraping-Automation&theme=dracula" alt="YouTube Web Scraping Automation" />
+  <img height="164" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=YouTube-Web-Scraping-Automation&theme=dracula" alt="YouTube Web Scraping Automation" />
 </a>
 <a href="https://github.com/CastroMurilo/Web-Scraping-Automated-Data-Entry">
-  <img height="155" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=Web-Scraping-Automated-Data-Entry&theme=dracula" alt="Web Scraping Automated Data Entry" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CastroMurilo&repo=Web-Scraping-Automated-Data-Entry&theme=dracula" alt="Web Scraping Automated Data Entry" />
 </a>
 
 
